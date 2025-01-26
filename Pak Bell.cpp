@@ -1,3 +1,9 @@
+//Tugas Ca-RSC Aksantara 2025
+//Irghi Satya Priangga 19624046
+//Pada tugas kali ini saya menambahkan 2 fitur
+//1. Fitur edit agar user tidak kesusahan untuk mengedit jika ada kesalahan informasi pada kontak yang telah ditambahkan
+//2. Fitur hapus kontak agar user bisa menghapus kontak yang sudah ada
+
 #include <iostream>
 #include <string>
 using namespace std;
